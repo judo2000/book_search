@@ -1,28 +1,30 @@
 <div id="top"></div>
     <h3 align="center">Google Book Search</h3>
 
-  ## License
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## License
 
-  ## Description
-  This is an app that was built with RESTful routing and was converted to use GraphQL.  The app uses the Google Books API and allows users to search for a book and then save books to a list.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## Table of Contents
-  * [Description](#description)
-  * [Installation Instructions](#installation-instructions)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributors](#contributors)
-  * [Testing](#testing)
-  * [Questions](#questions)
-  
+## Description
+
+This is an app that was built with RESTful routing and was converted to use GraphQL. The app uses the Google Books API and allows users to search for a book and then save books to a list.
+
+## Table of Contents
+
+- [License](#license)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Installation Instructions](#installation-instructions)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Testing](#testing)
+- [Questions](#questions)
 
   <p align="right">(<a href="#top">back to top</a>)</p>
 
-  ## Installation Instructions
-  
-  <ul><li>Clone this repository by running <code>git clone https://github.com/judo2000/book_search.git</code, from the command line</li><li>Change (cd) into the new directory</li><li>From the command line, run <code>npm i</code.  This will install packages for the client and server.</li><li>From the command line run <code>npm run develop</code> to start both the backend and frontend servers</li></ul>
+## Installation Instructions
+
+  <ul><li>Clone this repository by running <code>git clone https://github.com/judo2000/book_search.git</code>, from the command line</li><li>Change (cd) into the new directory</li><li>From the command line, run <code>npm i</code.  This will install packages for the client and server.</li><li>From the command line run <code>npm run develop</code> to start both the backend and frontend servers</li></ul>
   
   <p align="right">(<a href="#top">back to top</a>)</p>
   
@@ -38,15 +40,16 @@
 
   <p align="right">(<a href="#top">back to top</a>)</p>
 
-  ## Testing
-  NA
+## Testing
+
+NA
 
   <p align="right">(<a href="#top">back to top</a>)</p>
 
-  ## Questions
+## Questions
 
-  Github: [judo2000](https://github.com/judo2000)<br/>
-  
-  Email: [judo2000@comcast.net](judo2000@comcast.net)
+Github: [judo2000](https://github.com/judo2000)<br/>
+
+Email: [judo2000@comcast.net](judo2000@comcast.net)
 
   <p align="right">(<a href="#top">back to top</a>)</p>
