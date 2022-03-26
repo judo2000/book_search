@@ -24,7 +24,7 @@ This is an app that was built with RESTful routing and was converted to use Grap
 
 ## Installation Instructions
 
-  <ul><li>Clone this repository by running <code>git clone https://github.com/judo2000/book_search.git</code>, from the command line</li><li>Change (cd) into the new directory</li><li>From the command line, run <code>npm i</code.  This will install packages for the client and server.</li><li>From the command line run <code>npm run develop</code> to start both the backend and frontend servers</li></ul>
+  <ul><li>Clone this repository by running <code>git clone https://github.com/judo2000/book_search.git</code>, from the command line</li><li>Change (cd) into the new directory</li><li>From the command line, run <code>npm i</code>.  This will install packages for the client and server.</li><li>From the command line run <code>npm run develop</code> to start both the backend and frontend servers</li></ul>
   
   <p align="right">(<a href="#top">back to top</a>)</p>
   
